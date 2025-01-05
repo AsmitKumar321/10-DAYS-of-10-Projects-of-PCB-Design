@@ -1,0 +1,18 @@
+"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
+1;"U4";"SOT-223-3_TabPin2";1;"AMS1117-3.3";;;
+2;"U3,U2";"DIP-4_W7.62mm";2;"PC817";;;
+3;"U1";"ESP32-WROOM-32";1;"ESP32-WROOM-32";;;
+4;"SW2,SW1";"SW_PUSH_6mm";2;"SW_Push";;;
+5;"R8,R7";"R_0805_2012Metric";2;"10K";;;
+6;"R6,R5,R4,R3,R2,R1";"R_0805_2012Metric";6;"1K";;;
+7;"Q2,Q1";"TO-92_Inline";2;"S8050";;;
+8;"PS1";"Converter_ACDC_Hi-Link_HLK-PMxx";1;"HLK-PM01";;;
+9;"K2";"RELAY_PR13-5V-450-1C";1;"PR13-5V-450-1C";;;
+10;"K1";"Relay_SPST_RAYEX-L90AS";1;"RAYEX-L90AS";;;
+11;"J3";"TerminalBlock_bornier-3_P5.08mm";1;"Screw_Terminal_01x03";;;
+12;"J2";"TerminalBlock_bornier-4_P5.08mm";1;"Screw_Terminal_01x04";;;
+13;"J1";"PinHeader_1x04_P2.54mm_Vertical";1;"Conn_01x04_Pin";;;
+14;"D4,D1";"LED_0805_2012Metric";2;"LED";;;
+15;"D3,D2";"D_DO-35_SOD27_P7.62mm_Horizontal";2;"1N4148";;;
+16;"C2";"C_0805_2012Metric";1;"22uF";;;
+17;"C1";"C_0805_2012Metric";1;"10uF";;;
